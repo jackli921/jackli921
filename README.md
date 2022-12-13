@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jackli921
+- 👋 Hi, I’m Jack.
 - 👀 I’m interested in challenging myself and proving myself wrong. And world History, language aquisition, science, Zen Buddhism.
 - 🌱 I’m currently learning front-end web development on Scrimba
 - 💞️ I’m looking to collaborate on any non-evil projects
