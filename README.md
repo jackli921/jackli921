@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, my name is Jack (Run Qi) Li</h1>
-<h3 align="center">Born in 🇨🇳, grew up in 🇨🇦, worked in 🇯🇵, staying in 🇺🇸 ex-Fukuoka JET (CIR & ALT).</h3>
-<h3 align="center">Aspiring frontend developer</h3>
+<h3 align="center">Born in 🇨🇳, grew up in 🇨🇦, worked in 🇯🇵, staying in 🇺🇸 </h3>
+<h3 align="center">Ex-Fukuoka JET (CIR & ALT). Aspiring frontend developer</h3>
 
 - 🔭 I’m currently working on the [Scrimba Frontend Developer Course](https://scrimba.com/learn/frontend)
 
