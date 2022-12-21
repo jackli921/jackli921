@@ -1,4 +1,4 @@
-<h1 align="center">Hi stranger 👋, welcome! My name is Jack!</h1>
+<h1 align="center">Hi 👋, and welcome! My name is Jack!</h1>
 <h3 align="center">Born in 🇨🇳, grew up in 🇨🇦, worked in 🇯🇵, staying in 🇺🇸 </h3>
 <h3 align="center">Ex-Fukuoka JET (CIR & ALT). Aspiring frontend developer</h3>
 
