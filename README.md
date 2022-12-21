@@ -2,6 +2,8 @@
 <h3 align="center">Born in 🇨🇳, grew up in 🇨🇦, worked in 🇯🇵, staying in 🇺🇸 </h3>
 <h3 align="center">Ex-Fukuoka JET (CIR & ALT). Aspiring frontend developer</h3>
 
+--- 
+
 -Thanks for dropping by!
 
 I’m learning to program to challenge long-held beliefs about what I can’t do. 
@@ -10,6 +12,7 @@ To me, programming is as much of an outward experience as it is an inward endeav
 
 It’s an enriching wonderful and humbling continual process of growth. 
 
+---
 
 - 🔭 I’m currently working on the [Scrimba Frontend Developer Course](https://scrimba.com/learn/frontend)
 
