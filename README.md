@@ -6,20 +6,18 @@
 
 --- 
 
-Learning to program is as much of an outward exploration as it is an inward endeavor.
-To me, it's a constant reminder to myself of what I believe what I can do instead of what I can't.
-And I think the journey would be even better with a few like-minded friends, inspiring each other along the way. 
+To me, Learning to code is as much of an outward exploration as it is an inward endeavor.
+It's making a statement against my own beliefs about what I can or can't do.
+In doing so, I hope I could evolve, and in the process, inspire others to do the same.
 
 
-I think my best works come together when I'm having fun, like building (Tindog - Tinder for dogs)[https://tiny-mochi-3e1c9c.netlify.app/] 
+My best work so far is the curated profiles of these Tindog profiles, (Tindog - Tinder for dogs)[https://tiny-mochi-3e1c9c.netlify.app/] 
 
 ---
 
-- 🔭 I’m currently working on the [Scrimba Frontend Developer Course](https://scrimba.com/learn/frontend)
-
 - 🌱 I’m currently learning **JavaScript & React**
 
-- 👯 Talked to me about inspirations, Zen, and ideas for making the world a better place (especially environment and mental health related) 
+- 👯 Talked to me about inspirations, Zen, and ideas for (environment and mental health related tools) 
 
 - 👨‍💻 All of my projects are available at [https://unique-toffee-313a21.netlify.app/portfolio.html](https://unique-toffee-313a21.netlify.app/portfolio.html)
 
@@ -33,16 +31,14 @@ I think my best works come together when I'm having fun, like building (Tindog -
 After avoiding programming for most of his school years 🏫  and early working years after university 🎓, he reached a point in
 time where had to make a choice about his life trajectories 🚦 . 
 
-He decided to revisit a long-held beliefs he had about himself: Programming is too hard for him. 
-He knew that belief only led to avoidance, what he needed to do was growth. 
-He had his challenge his own belief about what he can and can't do. 
+🤔 He decided to revisit a long-held beliefs he had about himself: 🖥️ Programming is too hard for him. 
+🏃 He knew that belief only led to avoidance, but what he needed to was growth. 🌲
+🏋️ He had to challenge his own belief about what he can and can't do. 💪
 
-It's only been a short while (Oct, 2022) since Jack started his path but he is making good progress.
+It's only been a short while (Oct, 2022) since Jack started his path but he is making good progress. 🚀
 
-He doesn't know what's ahead but he's not worried. 
-He's excited for what's to come. 
-And one thing he believes is that, he is building towards something.
-
+He doesn't know what's ahead but he's not worried. He's excited for what's to come. 
+And one thing is for sure, he's glad he's glad to have made the change :)
 
 
 <h3 align="left">Connect with me:</h3>
