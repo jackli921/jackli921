@@ -7,8 +7,8 @@
 --- 
 
 To me, learning to code is as much of an outward exploration as it is an inward endeavor.
-It's making a statement against my own beliefs about what I can or can't do.
-In doing so, I hope I could evolve, and in the process, inspire others to do the same.
+It's my way of making a statement against my own beliefs about what I can or can't do.
+Through this continual process of challenge and growth, I hope we become further inspired.  
 
 
 My best work so far is the curated profiles of these Tindog profiles, (Tindog - Tinder for dogs)[https://tiny-mochi-3e1c9c.netlify.app/] 
