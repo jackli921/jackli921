@@ -1,16 +1,17 @@
-<h1 align="center">Hi 👋, my name is Jack (Run Qi) Li</h1>
+<h1 align="center">Hi stranger 👋, welcome! My name is Jack!</h1>
 <h3 align="center">Born in 🇨🇳, grew up in 🇨🇦, worked in 🇯🇵, staying in 🇺🇸 </h3>
 <h3 align="center">Ex-Fukuoka JET (CIR & ALT). Aspiring frontend developer</h3>
 
+>“You can't connect the dots looking forward; you can only connect them looking backwards - Steve Jobs
+
 --- 
 
--Thanks for dropping by!
+Learning to program is as much of an outward exploration as it is an inward endeavor.
+To me, it's a constant reminder to myself of what I believe what I can do instead of what I can't.
+And I think the journey would be even better with a few like-minded friends, inspiring each other along the way. 
 
-I’m learning to program to challenge long-held beliefs about what I can’t do. 
 
-To me, programming is as much of an outward experience as it is an inward endeavor. It’s very personal.
-
-It’s an enriching wonderful and humbling continual process of growth. 
+I think my best works come together when I'm having fun, like building (Tindog - Tinder for dogs)[https://tiny-mochi-3e1c9c.netlify.app/] 
 
 ---
 
@@ -18,13 +19,31 @@ It’s an enriching wonderful and humbling continual process of growth.
 
 - 🌱 I’m currently learning **JavaScript & React**
 
-- 👯 I’m looking to collaborate on **non-evil projects**
+- 👯 Talked to me about inspirations, Zen, and ideas for making the world a better place (especially environment and mental health related) 
 
 - 👨‍💻 All of my projects are available at [https://unique-toffee-313a21.netlify.app/portfolio.html](https://unique-toffee-313a21.netlify.app/portfolio.html)
 
 - 📫 How to reach me **li.jack0707@gmail.com**
 
 - ⚡ Fun fact **I also speak Mandarin, Japanese, and Spanish**
+
+---
+
+🕛 For a long time, Jack thought he wasn't smart enough for programming 😮‍💨, unlike his peers whom just seemed to get it 😎.  
+After avoiding programming for most of his school years 🏫  and early working years after university 🎓, he reached a point in
+time where had to make a choice about his life trajectories 🚦 . 
+
+He decided to revisit a long-held beliefs he had about himself: Programming is too hard for him. 
+He knew that belief only led to avoidance, what he needed to do was growth. 
+He had his challenge his own belief about what he can and can't do. 
+
+It's only been a short while (Oct, 2022) since Jack started his path but he is making good progress.
+
+He doesn't know what's ahead but he's not worried. 
+He's excited for what's to come. 
+And one thing he believes is that, he is building towards something.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
