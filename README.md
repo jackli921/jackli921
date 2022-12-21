@@ -17,7 +17,7 @@ My best work so far is the curated profiles of these Tindog profiles, (Tindog - 
 
 - 🌱 I’m currently learning **JavaScript & React**
 
-- 👯 Talked to me about inspirations, Zen, and ideas for (environment and mental health related tools) 
+- 👯 Talked to me about zen or ideas for doing something about climate change and mental health
 
 - 👨‍💻 All of my projects are available at [https://unique-toffee-313a21.netlify.app/portfolio.html](https://unique-toffee-313a21.netlify.app/portfolio.html)
 
