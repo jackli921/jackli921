@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript & React**
 
-- 👯 I’m looking to collaborate on **non-evil projects :)**
+- 👯 I’m looking to collaborate on **non-evil projects**
 
 - 👨‍💻 All of my projects are available at [https://unique-toffee-313a21.netlify.app/portfolio.html](https://unique-toffee-313a21.netlify.app/portfolio.html)
 
