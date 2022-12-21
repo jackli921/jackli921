@@ -8,7 +8,7 @@
 
 To me, learning to code is as much of an outward exploration as it is an inward endeavor.
 It's my way of making a statement against my own beliefs about what I can or can't do.
-Through this continual process of challenge and growth, I hope we become further inspired.  
+I hope to be further inspired by great ideas and friends alike. It's nice to meet you.  
 
 
 My best work so far is the curated profiles of these Tindog profiles, (Tindog - Tinder for dogs)[https://tiny-mochi-3e1c9c.netlify.app/] 
