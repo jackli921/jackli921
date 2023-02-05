@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, and welcome! My name is Jack!</h1>
-<h3 align="center">Born in 🇨🇳, grew up in 🇨🇦, worked in 🇯🇵, staying in 🇺🇸 </h3>
-<h3 align="center">Ex-Fukuoka JET (CIR & ALT). Aspiring frontend developer</h3>
+<h3 align="center">Born in 🇨🇳, grew up in 🇨🇦, worked in 🇯🇵 </h3>
+<h3 align="center">Ex-Fukuoka JET (CIR & ALT). Frontend Developer</h3>
 
 >“You can't connect the dots looking forward; you can only connect them looking backwards - Steve Jobs
 
@@ -15,11 +15,7 @@ My best work so far is the curated profiles of these Tindog profiles, (Tindog - 
 
 ---
 
-- 🌱 I’m currently learning **JavaScript & React**
-
-- 👯 Talk to me about zen or ideas for doing something about climate change and mental health
-
-- 👨‍💻 All of my projects are available at [https://unique-toffee-313a21.netlify.app/portfolio.html](https://unique-toffee-313a21.netlify.app/portfolio.html)
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **li.jack0707@gmail.com**
 
