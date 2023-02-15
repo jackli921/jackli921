@@ -10,9 +10,6 @@ To me, learning to code is as much of an outward exploration as it is an inward 
 It's my way of making a statement against my own beliefs about what I can or can't do.
 I hope to be inspired by great ideas, friends, and mentors, whichever intersection we may meet.  
 
-
-My best work so far is the curated profiles of these Tindog profiles, (Tindog - Tinder for dogs)[https://tiny-mochi-3e1c9c.netlify.app/] 
-
 ---
 
 - 🌱 I’m currently learning **React**
