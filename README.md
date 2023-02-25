@@ -8,7 +8,7 @@
 
 To me, learning to code is as much of an outward exploration as it is an inward endeavor.
 It's my way of making a statement against my own beliefs about what I can or can't do.
-I hope to be inspired by great ideas, friends, and mentors, whichever intersection we may meet.  
+I'm always looking for inspirations and role models. I hope to meet you at such intersections.  
 
 ---
 
