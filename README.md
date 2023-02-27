@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, and welcome! My name is Jack!</h1>
-<h3 align="center">Based in Toronto, Canada 🇨🇦 </h3>
-<h3 align="center">Frontend Developer</h3>
 
 >“You can't connect the dots looking forward; you can only connect them looking backwards - Steve Jobs
 
