@@ -8,12 +8,32 @@ To me, learning to code is as much of an outward exploration as it is an inward 
 It's my way of making a statement against my own beliefs about what I can or can't do.
 
 ---
-
-- 🌱 I’m currently learning **React**
-
+- 🌱 I’m currently learning **Design Systems**
 - 📫 How to reach me **li.jack0707@gmail.com**
-
 - ⚡ Fun fact **I also speak Mandarin, Japanese, and Spanish**
+---
+
+I’m fascinated by the world we live in, how it’s evolving, and how we influence each other. I’ve been most fascinated by the cultures and languages in our world, which has led me to various places 🌎.
+
+Prior to becoming a web developer, I:
+1. Hitchhiked & backpacked across mainland China 🇨🇳🚶‍♂️🎒
+2. Studied Spanish in Guatemala 🇬🇹📚🌎
+3. Taught English in Japan 🇯🇵👨‍🏫
+
+I also failed at becoming a UX designer, which is how I discovered web development. My passion for design never left me, which is why I found web development to be a great alternative for me to:
+
+1. Stay in touch with learning more about user experience design 🤔💡
+2. Take on a personal challenge to overcome my long-held fear of programming 🚀👨‍💻
+3. Pivot into a profession that has the ability to improve people’s lives and well-being at scale 🌟👨‍💻
+
+Despite being self-taught, I’m confident in my technical skill set because of my education with Scrimba and my success with self-imposed stretch goals. My portfolio projects demonstrate my skills in building responsive websites and web apps using APIs, HTML, CSS, JavaScript, and React. 💪💻🌐
+
+Currently, I’m:
+1. Hunting for front-end roles with quality mentorship 🔍
+2. Integrating TypeScript and Tailwind into my portfolio projects 💻
+3. Helping new developers improve through recording code reviews 🤝
+
+If you are looking to nurture a junior frontend developer who is curious, teachable, eager to contribute, and has a good attitude, then I won’t disappoint. 🤞
 
 ---
 
