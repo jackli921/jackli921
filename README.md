@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, and welcome! My name is Jack!</h1>
+I’m a designer and builder of my imagination 🎨🏗️. 
+I’m fascinated by the world we live in, how it’s evolving, and how we influence each other. 
+I’ve been most fascinated by the cultures and languages in our world, which has led me to various places 🌎.
+
 ---
 - 🌱 I’m currently learning **Design Systems**
 - 📫 How to reach me **li.jack0707@gmail.com**
 - ⚡ Fun fact **I also speak Mandarin, Japanese, and Spanish**
 ---
-I’m a designer and builder of my imagination 🎨🏗️. 
-I’m fascinated by the world we live in, how it’s evolving, and how we influence each other. 
-I’ve been most fascinated by the cultures and languages in our world, which has led me to various places 🌎.
 
 Prior to becoming a web developer, I:
 1. Hitchhiked & backpacked across mainland China 🇨🇳🚶‍♂️🎒
