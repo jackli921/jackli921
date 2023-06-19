@@ -28,6 +28,12 @@ Talk to me about badminton 🏸, learning new spoken languages, and all things J
 
 
 ## Education (coming soon ...)
+University of Waterloo
+Bachelor of Knowledge Integration - Waterloo, Canada
+- Design Thinking Problem Solving 
+- Earth Science
+- Applied Languages Studies
+
 
 
 ## Accomplishments (coming soon ...)
@@ -35,7 +41,7 @@ Talk to me about badminton 🏸, learning new spoken languages, and all things J
 - The Japan Kanji Aptitude Test Pre-2 (漢字検定準2級)
 - Japanese Language Proficiency Test N1(日本語能力試験 N1)
 - [Provincial Champion of 34th Ontario Japanese Speech Contest](https://www.youtube.com/watch?v=tGrz8yKtzIw&list=PLHWuZ9otK00L59a0i8ZrWc8PzMDNEd47G) (最優秀賞　第39回オンタリオ州日本語弁論大会)
+- JET Programme Translation & Interpreation Course
 - National Champion of 27th Canada national Japanese Speech Contest (第1位　初級部門　第27回全カナダ日本語弁論大会)
-- [Scrimba Frontend Developer Career Path](https://scrimba.com/certificate/uw2yNGt3/gfrontend) - Top Code Reviewer
 - Teaching English as a Foreign language 120 Hours training (TEFL) 
 
