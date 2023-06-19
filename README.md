@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, and welcome! My name is Jack!</h1>
 
-
-# Seeking intership and full-time opportunties in Canada & Remote
 I'm a self-taught full-stack dev based in Toronto, Canada. Here's my [resume](https://www.linkedin.com/in/jackli0707/overlay/1635529962323/single-media-viewer/?profileId=ACoAACM7NV8BVHKoxqMZcQX1Z-gIPc8aqap2Te8) </br> 
 I'm an ex-JET (CIR turned ALT) and an avid language learner and backpacker. </br>
 
