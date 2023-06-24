@@ -17,7 +17,7 @@ I'm an ex-JET (CIR turned ALT) and an avid language learner and backpacker. </br
 ## About
 Born in 🇨🇳 and raised in 🇨🇦, I've been on a language journey (spoken and programming ones) my whole life. Up until I discovered the programming side, I had learned  Mandarin, English, French, studied Spanish in Guatemala, and ultimately becoming fascinated with Japan and Japanese for last decade. I'm pursuing my dream of being immserd in the cultures of all 7 UN languages.
 
-I learned to code to overcome my fears of programming. It's my way to re-inventing myself.
+I learned to code to overcome my fears of programming. It's my way to reinvent myself.
 I'm most excited about works that improves people's well-beings and the environment.
 Talk to me about badminton 🏸, learning new spoken languages, and all things Japan. </br>
 
