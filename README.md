@@ -22,7 +22,7 @@ I'm most excited about works that improves people's well-beings and the environm
 Talk to me about badminton 🏸, learning new spoken languages, and all things Japan. </br>
 
 
-## Work (coming soon ...)
+## Work 
 
 ### Software Developer - ToBeDetermined.Inc - (Jun 2023 - Present) 
 -   Developed 4 industrial-grade web-scraping service to automate data collection to up to 101k+ urls in NodeJS
@@ -32,8 +32,13 @@ Talk to me about badminton 🏸, learning new spoken languages, and all things J
 -   Reduced failed scrape from 8% to under 1% by enhancing error handling logic, improving collection quantity
 -   Conducted meetings with client investors to ensure software meets project requirements and business needs
 
+### Frontend Developer - Chingu - (May 2023 - June 2023)
+-   Fostered an exceptional team dynamic where all members expressed a desire to collaborate again on future projects
+-   Collaborated in an Agile team of four applying (Scrum) Methodology and Git for version control
+-   Led weekly sprint planning and reviews with clear agendas, input from all members, and actionable items
+-   Ensured optimal performance, accessibility, and SEO by following best practices and making the app responsive
 
-## Education (coming soon ...)
+## Education 
 University of Waterloo
 Bachelor of Knowledge Integration - Waterloo, Canada
 - Design Thinking Problem Solving 
