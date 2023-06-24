@@ -11,7 +11,7 @@ I'm an ex-JET (CIR turned ALT) and an avid language learner and backpacker. </br
 - [About](#about)
 - [Work](#work)
 - [Education](#education)
-- [Accomplishments](#accomplishments)
+- [Accomplishments](#Accomplishments)
 
 
 ## About
@@ -47,7 +47,7 @@ Bachelor of Knowledge Integration - Waterloo, Canada
 
 
 
-## Accomplishments (coming soon ...)
+## Accomplishments
 - Business Japanese Proficiency Test J1+ (BJTビジネス日本語能力テスト J1+)
 - The Japan Kanji Aptitude Test Pre-2 (漢字検定準2級)
 - Japanese Language Proficiency Test N1(日本語能力試験 N1)
