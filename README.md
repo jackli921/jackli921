@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, and welcome! My name is Jack!</h1>
 
-I'm a self-taught full-stack dev based in Toronto, Canada. Here's my [resume](https://www.linkedin.com/in/jackli0707/overlay/1635529962323/single-media-viewer/?profileId=ACoAACM7NV8BVHKoxqMZcQX1Z-gIPc8aqap2Te8) </br> 
+I'm a self-taught full-stack dev based in Toronto, Canada. Here's my [resume](https://www.linkedin.com/in/jackli0707/overlay/1635530818650/single-media-viewer/?profileId=ACoAACM7NV8BVHKoxqMZcQX1Z-gIPc8aqap2Te8) </br> 
 I'm an ex-JET (CIR turned ALT) and an avid language learner and backpacker. </br>
 
 
@@ -23,6 +23,14 @@ Talk to me about badminton 🏸, learning new spoken languages, and all things J
 
 
 ## Work (coming soon ...)
+
+### Software Developer - ToBeDetermined.Inc - (Jun 2023 - Present) 
+-   Developed 4 industrial-grade web-scraping service to automate data collection to up to 101k+ urls in NodeJS
+-   Reduced business cost by $2k by automating scraping process on 5 Google Cloud Virtual Machines
+-   Improved web scraping effectiveness by automating clicking, resulting in up to 10-fold increase in data collection/page
+-   Improved data analysis process by streamlining merging, and conversion of multiple JSON files into one CSV file
+-   Reduced failed scrape from 8% to under 1% by enhancing error handling logic, improving collection quantity
+-   Conducted meetings with client investors to ensure software meets project requirements and business needs
 
 
 ## Education (coming soon ...)
