@@ -41,7 +41,9 @@ Talk to me about badminton 🏸, learning new spoken languages, and all things J
 ## Education 
 University of Waterloo
 Bachelor of Knowledge Integration - Waterloo, Canada
-- Design Thinking Problem Solving 
+- Design Thinking 
+- Collaborative Problem Solving
+- Philosophy
 - Earth Science
 - Applied Languages Studies
 
