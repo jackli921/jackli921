@@ -25,36 +25,34 @@ Talk to me about badminton 🏸, learning new spoken languages, and all things J
 ## Work 
 
 ### Software Developer - ToBeDetermined.Inc - (Jun 2023 - Present) 
--   Developed 4 industrial-grade web-scraping service to automate data collection to up to 101k+ urls in NodeJS
--   Reduced business cost by $2k by automating scraping process on 5 Google Cloud Virtual Machines
--   Improved web scraping effectiveness by automating clicking, resulting in up to 10-fold increase in data collection/page
--   Improved data analysis process by streamlining merging, and conversion of multiple JSON files into one CSV file
--   Reduced failed scrape from 8% to under 1% by enhancing error handling logic, improving collection quantity
--   Conducted meetings with client investors to ensure software meets project requirements and business needs
+•   Exceeded expectations, promoted to intermediate rate ($40USD/hr) from junior ($20USD/hr) in under 1 month
+• Developed 8 industrial-grade web-scrapers that collect and stores data from 500k+ urls to Cloud database
+• Reduced development cost($5k+) through fine tuning and automating data scraping process on Google Cloud VMs
+• Increased collectible data quantity by 100+ fold/page while reduced failed scrape attempts from 8% to under 1%
+• Maintained high development velocity through clear written and oral communication with clients and PM
+• Drafted 10+ README and archived 30+ branches to improve repo maintainability and onboarding experience
 
 ### Frontend Developer - Chingu - (May 2023 - June 2023)
--   Fostered an exceptional team dynamic where all members expressed a desire to collaborate again on future projects
--   Collaborated in an Agile team of four applying (Scrum) Methodology and Git for version control
--   Led weekly sprint planning and reviews with clear agendas, input from all members, and actionable items
--   Ensured optimal performance, accessibility, and SEO by following best practices and making the app responsive
+• Fostered an exceptional team dynamic where all members expressed a desire to collaborate again on future projects
+• Collaborated in an Agile team of four applying (Scrum) Methodology and Git for version control
+• Led weekly sprint planning and reviews with clear agendas, input from all members, and actionable items
+• Ensured optimal performance, accessibility, and SEO by following best practices and making the app responsive
 
 ## Education 
 University of Waterloo
 Bachelor of Knowledge Integration - Waterloo, Canada
-- Design Thinking 
-- Collaborative Problem Solving
-- Philosophy
-- Earth Science
-- Applied Languages Studies
-
-
+• Design Thinking 
+• Collaborative Problem Solving
+• Philosophy
+• Earth Science
+• Applied Languages Studies
 
 ## Accomplishments
-- Business Japanese Proficiency Test J1+ (BJTビジネス日本語能力テスト J1+)
-- The Japan Kanji Aptitude Test Pre-2 (漢字検定準2級)
-- Japanese Language Proficiency Test N1(日本語能力試験 N1)
-- [Provincial Champion of 34th Ontario Japanese Speech Contest](https://www.youtube.com/watch?v=tGrz8yKtzIw&list=PLHWuZ9otK00L59a0i8ZrWc8PzMDNEd47G) (最優秀賞　第39回オンタリオ州日本語弁論大会)
-- JET Programme Translation & Interpreation Course
-- National Champion of 27th Canada national Japanese Speech Contest (第1位　初級部門　第27回全カナダ日本語弁論大会)
-- Teaching English as a Foreign language 120 Hours training (TEFL) 
+• Business Japanese Proficiency Test J1+ (BJTビジネス日本語能力テスト J1+)
+• The Japan Kanji Aptitude Test Pre-2 (漢字検定準2級)
+• Japanese Language Proficiency Test N1(日本語能力試験 N1)
+• [Provincial Champion of 34th Ontario Japanese Speech Contest](https://www.youtube.com/watch?v=tGrz8yKtzIw&list=PLHWuZ9otK00L59a0i8ZrWc8PzMDNEd47G) (最優秀賞　第39回オンタリオ州日本語弁論大会)
+• JET Programme Translation & Interpreation Course
+• National Champion of 27th Canada national Japanese Speech Contest (第1位　初級部門　第27回全カナダ日本語弁論大会)
+• Teaching English as a Foreign language 120 Hours training (TEFL) 
 
