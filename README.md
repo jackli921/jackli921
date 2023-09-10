@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, and welcome! My name is Jack!</h1>
 
 I'm a self-taught full-stack software developer based in Toronto 🇨🇦. </br>
-I'm learning to code to overcome my fears of programming 👨🏻‍💻. </br>
+I'm learned to code to overcome my fears of programming 👨🏻‍💻. </br>
 I'm freelancing as a software developer and is <strong> open for hire 🤝 </strong> </br>
 
 ## Links
@@ -19,11 +19,17 @@ I'm freelancing as a software developer and is <strong> open for hire 🤝 </str
 
 
 ## About
-Born in 🇨🇳 and raised in 🇨🇦, I've been on a language journey (spoken and programming ones) my whole life. Up until I discovered the programming side, I had learned  Mandarin, English, French, studied Spanish in Guatemala, and ultimately becoming fascinated with Japan and Japanese for last decade. I'm pursuing my dream of being immserd in the cultures of all 6 UN languages.
+Born in 🇨🇳 and raised in 🇨🇦, I've been on a language journey (spoken and programming ones) my whole life. </br>
 
-I'm most excited about works that improves people's well-beings and the environment.
-Talk to me about badminton 🏸, learning new spoken languages, and all things Japan. </br>
+Until I discovered coding, my fascination with language and culture led me to learning Spanish in Guatemala and teaching English in Japan.
+I hope to be able to converse in all 6 UN languages some day, so I'm looking at Arabic, Russian, and French now that I speak Mandarin, English, and Spanish. 
 
+My hobbies:
+- backpacking, camping, wilderness survival!
+- language learning & cultural immersion (you saw this one coming)
+- Playing badminton
+- All things Japan
+- Liberal arts (world history, philosophy, and sociology research)
 
 ## Work 
 
