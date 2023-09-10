@@ -22,11 +22,11 @@ I'm freelancing as a software developer and is <strong> open for hire 🤝 </str
 Born in 🇨🇳 and raised in 🇨🇦, I've been on a language journey (spoken and programming ones) my whole life. </br>
 
 Until I discovered coding, my fascination with language and culture led me to learning Spanish in Guatemala 🇬🇹 and teaching English in Japan 🇯🇵. </br>
-For a long time, I saw myself becoming a language specialist in interpretation or translation until I discovered web development through Scrimba in 2022.
+For a long time, I saw myself becoming a language specialist (interpretation/translation) until I discovered web development via Scrimba in 2022. </br>
 You could say that I discovered new ecosystem and I have never looked back since. 
 
 While this new journey in programming languages continue, I will keep going with my spoken ones as well. 
-I hope to converse with speakers of all 6 UN languages, so besides C, Java, and Python, I'm looking at Arabic, Russian, and French next.
+I hope to converse with speakers of all 6 UN languages, so besides eventually learning C, Java, and Python, there's also looking at Arabic, Russian, and French.
 
 My hobbies:
 - backpacking, camping, wilderness survival 🏕️!
