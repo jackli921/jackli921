@@ -32,14 +32,6 @@ I hope to converse in all 6 UN languages, so besides learning C, Java, and Pytho
 |------------|-------------|-------------|-------------|
 | <p align="center">Backpacking in China</p>|<p align="center"> Badminton in Japan</p> | <p align="center">Spanish learning in Guatemala</p> | <p align="center">Japanese Learning in Canada</p> |
 
-
-My hobbies:
-- backpacking, camping, wilderness survival 🏕️!
-- language learning & cultural immersion (you saw this one coming)
-- badminton, badminton, more badminton 🏸
-- all things Japan 🏯
-- liberal arts readings (world history, philosophy, sociology)
-
 ## Work 
 
 ### Software Developer - ToBeDetermined.Inc - (Jun 2023 - Present) 
