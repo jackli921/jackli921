@@ -34,11 +34,13 @@ I hope to converse in all 6 UN languages, so besides learning C, Java, and Pytho
 
 ## Project
 
-|------------|-------------|-------------|
-|------------|-------------|-------------|
+|<img src="https://jack-codes.netlify.app/gif/Boolebots.gif" width="350">|<img src="" width="350">|
+|------------|-------------|
 |Boole Bot (view in desktop or mobile) | Kanbe Udon (view in mobile for best experience) | Tindog (view in mobile for best experience) |
-| An educational game that combines gameplay with basic Boolean logic |A responsive website for an udon shop in Fukuoka, Japan, built using React Router 6| A fake dating app for caines everywhere|
-|[Repo](https://github.com/chingu-voyages/v44-tier2-team-24) & [Site](https://boolebots.netlify.app/) |[Repo](https://github.com/jackli921/Kanbei-Udon) $ [Site](https://kanbei-udon-jack.netlify.app/)|[Repo](https://github.com/jackli921/Tindog-Dog-Dating-App) & [Site](https://tindog-jack.netlify.app/)|
+| An educational game that combines gameplay with basic Boolean logic |A responsive website for an udon shop in Fukuoka, Japan, built using React Router 6|
+|[Repo](https://github.com/chingu-voyages/v44-tier2-team-24) & [Site](https://boolebots.netlify.app/) |[Repo](https://github.com/jackli921/Kanbei-Udon) $ [Site](https://kanbei-udon-jack.netlify.app/)|------------|-------------|
+| A fake dating app for caines everywhere|-------------|
+|[Repo](https://github.com/jackli921/Tindog-Dog-Dating-App) & [Site](https://tindog-jack.netlify.app/)|-------------|
 
 ## Work 
 
