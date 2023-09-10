@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, and welcome! My name is Jack!</h1>
 
-I'm a self-taught full-stack software developer based in Toronto 🇨🇦. </br>
-I'm learned to code to overcome my fears of programming 👨🏻‍💻. </br>
-I'm freelancing as a software developer and is <strong> open for hire 🤝 </strong> </br>
-
-## Links
-[Resume](https://github.com/jackli921/Portfolio-Site/blob/9cb5f75a2b7995d6bd89c4a8f9ed08d91e28ebec/Resume_Run%20Qi%20(Jack)%20Li_Software%20Developer.pdf) </br> 
-[Portfolio](https://jack-codes.netlify.app/)
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/jackli0707/)](https://www.linkedin.com/in/jackli0707/)
+I'm a self-taught full-stack developer based in Toronto 🇨🇦. </br>
+I learned to code to overcome my fears of programming 👨🏻‍💻. </br>
+Currently working as a software developer and is <strong> open for hire 🤝 </strong> </br>
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/li_jack0707)](https://twitter.com/li_jack0707) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/jackli0707/)](https://www.linkedin.com/in/jackli0707/) | 
+[Resume](https://github.com/jackli921/Portfolio-Site/blob/9cb5f75a2b7995d6bd89c4a8f9ed08d91e28ebec/Resume_Run%20Qi%20(Jack)%20Li_Software%20Developer.pdf) | [Portfolio](https://jack-codes.netlify.app/)
 
 ## Navigation
 - [About](#about)
@@ -22,13 +18,20 @@ I'm freelancing as a software developer and is <strong> open for hire 🤝 </str
 Born in 🇨🇳 and raised in 🇨🇦, I've been on a language journey (spoken and programming ones) my whole life. </br>
 
 Before coding, my fascination with language and culture led me to learning Spanish in Guatemala 🇬🇹 and teaching English in Japan 🇯🇵. </br>
-For a long time, I saw myself becoming a spoken language specialist (interpretation/translation). </br>
-That was true until I discovered web development through Scrimba in 2022. </br>
+For a long time, I saw myself becoming a spoken language specialist such as an interpretation or a translator. </br>
+But all that changed when I discovered web development through Scrimba in 2022. </br>
 
-You could say that I found the the right ecosystem for myself; An new playground for curisoity and discovery. </br>
+You could say that I found myself an new ecosystem; </br>
+An brand new playground to challeng myself and follow my curiosity. </br>
+But most importantly, as a way to reinvent myself.
 
-While this new journey in programming languages continue, I will keep going with my spoken ones as well. 
-I hope to converse with speakers of all 6 UN languages, so besides learning C, Java, and Python, I'll shall learn at Arabic, Russian, and French as well.
+While this new journey in programming languages continue, I will keep going with my spoken ones as well. </br>
+I hope to converse in all 6 UN languages, so besides learning C, Java, and Python, I'll learn at Arabic, Russian, and French as well.
+
+|<img src="https://raw.githubusercontent.com/jackli921/jackli921/main/backpacking.jpg" width="250">|<img src="https://github.com/jackli921/jackli921/blob/main/badminton.jpg?raw=true" width="250">|<img src="https://github.com/jackli921/jackli921/blob/main/history.jpg?raw=true" width="250">|<img src="https://github.com/jackli921/jackli921/blob/main/japanese.jpg?raw=true" width="250">
+|------------|-------------|-------------|-------------|
+| Backpacking in China| Badminton in Japan | History & Museum studies | Japanese Language Learning |
+
 
 My hobbies:
 - backpacking, camping, wilderness survival 🏕️!
