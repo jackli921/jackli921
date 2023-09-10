@@ -32,19 +32,19 @@ I hope to converse in all 6 UN languages, so besides learning C, Java, and Pytho
 |------------|-------------|-------------|-------------|
 | <p align="center">Backpacking in China</p>|<p align="center"> Badminton in Japan</p> | <p align="center">Spanish learning in Guatemala</p> | <p align="center">Japanese Learning in Canada</p> |
 
-## Project
+## Projects
 
-| <img src="https://jack-codes.netlify.app/gif/Boolebots.gif" width="350"> | <img src="" width="350"> |
+| <img src="https://github.com/jackli921/jackli921/blob/main/Boolebots.gif?raw=true" width="350"> | <img src="https://github.com/jackli921/jackli921/blob/main/Kanbe.gif?raw=true" width="350"> |
 | :------------: | :-------------: |
-| Boole Bot (view in desktop or mobile) | Kanbe Udon (view in mobile for best experience) | 
-| An educational game that combines gameplay with basic Boolean logic | A responsive website for an udon shop in Fukuoka, Japan, built using React Router 6|
+| Boole Bot (view in desktop or mobile) | Kanbe Udon (best viewed in mobile size) | 
+| An educational game that combines gameplay with Boolean logic | A site showcasing the offerings of an udon shop in Fukuoka, Japan|
 | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|
 |[Repo](https://github.com/chingu-voyages/v44-tier2-team-24) & [Site](https://boolebots.netlify.app/) | [Repo](https://github.com/jackli921/Kanbei-Udon) & [Site](https://kanbei-udon-jack.netlify.app/)|
 
-| <img src="" width="350"> | <img src="" width="350">|
+| <img src="https://github.com/jackli921/jackli921/blob/main/Tindog.gif?raw=true" width="350"> | <img src="https://github.com/jackli921/jackli921/blob/main/YelpCamp.gif?raw=true" width="350">|
 | :------------: | :-------------: |
-| A fake dating app for caines everywhere (view in mobile for best experience) | YelpCamp (view in mobile or desktop) | 
-| An educational game that combines gameplay with basic Boolean logic | A full-stack review-sharing platform for campgrounds in the U.S.|
+| Tindog (best viewed in mobile size) | YelpCamp (view in mobile or desktop) | 
+| A dating app mimicking for caines everywhere (best viewed in mobile) | A full-stack review-sharing platform for campgrounds in the U.S.|
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)|
 |[Repo](https://github.com/chingu-voyages/v44-tier2-team-24) & [Site](https://boolebots.netlify.app/) | [Repo](https://github.com/jackli921/Kanbei-Udon) & [Site](https://kanbei-udon-jack.netlify.app/)|
 
