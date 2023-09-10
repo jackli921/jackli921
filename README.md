@@ -18,7 +18,7 @@ Currently working as a software developer and is <strong> open for hire 🤝 </s
 ## About
 Born in 🇨🇳 and raised in 🇨🇦, I've been on a language journey (spoken and programming ones) my whole life. </br>
 
-Before coding, my fascination with language and culture led me to learning Spanish in Guatemala 🇬🇹 and teaching English in Japan 🇯🇵. </br>
+Before coding, my fascination with language and culture led me to learning Spanish in Guatemala and teaching English in Japan. </br>
 For a long time, I saw myself becoming a spoken language specialist such as an interpretation or a translator. </br>
 But all that changed when I discovered web development through Scrimba in 2022. </br>
 
