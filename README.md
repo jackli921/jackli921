@@ -3,13 +3,9 @@
 I'm a self-taught full-stack developer based in Toronto 🇨🇦. </br>
 I learned to code to overcome my fears of programming 👨🏻‍💻. </br>
 Currently working as a software developer and is <strong> open for hire 🤝 </strong> </br>
-
-## Links
-[Resume](https://github.com/jackli921/Portfolio-Site/blob/9cb5f75a2b7995d6bd89c4a8f9ed08d91e28ebec/Resume_Run%20Qi%20(Jack)%20Li_Software%20Developer.pdf) </br> 
-[Portfolio](https://jack-codes.netlify.app/)
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/jackli0707/)](https://www.linkedin.com/in/jackli0707/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/li_jack0707)](https://twitter.com/li_jack0707) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/jackli0707/)](https://www.linkedin.com/in/jackli0707/) | 
+[Resume](https://github.com/jackli921/Portfolio-Site/blob/9cb5f75a2b7995d6bd89c4a8f9ed08d91e28ebec/Resume_Run%20Qi%20(Jack)%20Li_Software%20Developer.pdf) | [Portfolio](https://jack-codes.netlify.app/)
 
 ## Navigation
 - [About](#about)
