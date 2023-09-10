@@ -28,9 +28,9 @@ But most importantly, as a way to reinvent myself.
 While this new journey in programming languages continue, I will keep going with my spoken ones as well. </br>
 I hope to converse in all 6 UN languages, so besides learning C, Java, and Python, I'll learn at Arabic, Russian, and French as well.
 
-|<img src="https://raw.githubusercontent.com/jackli921/jackli921/main/backpacking.jpg" width="250">|<img src="https://github.com/jackli921/jackli921/blob/main/badminton.jpg?raw=true" width="250">|<img src="https://github.com/jackli921/jackli921/blob/main/history.jpg?raw=true" width="250">|<img src="https://github.com/jackli921/jackli921/blob/main/japanese.jpg?raw=true" width="250">
+|<img src="https://raw.githubusercontent.com/jackli921/jackli921/main/backpacking.jpg" width="250">|<img src="https://github.com/jackli921/jackli921/blob/main/badminton.jpg?raw=true" width="250">|<img src="https://github.com/jackli921/jackli921/blob/main/guatemala.jpg?raw=true" width="250">|<img src="https://github.com/jackli921/jackli921/blob/main/japanese.jpg?raw=true" width="250">
 |------------|-------------|-------------|-------------|
-| Backpacking in China| Badminton in Japan | History & Museum studies | Japanese Language Learning |
+| <p align="center">Backpacking in China</p>|<p align="center"> Badminton in Japan</p> | <p align="center">Spanish learning in Guatemala</p> | <p align="center">Japanese Learning in Canada</p> |
 
 
 My hobbies:
