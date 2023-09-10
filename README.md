@@ -9,6 +9,7 @@ Currently working as a software developer and is <strong> open for hire 🤝 </s
 
 ## Navigation
 - [About](#about)
+- [Projects](#projects)
 - [Work](#work)
 - [Education](#education)
 - [Accomplishments](#Accomplishments)
