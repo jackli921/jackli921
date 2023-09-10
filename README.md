@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, and welcome! My name is Jack!</h1>
 
-I'm a self-taught full-stack dev based in Toronto, Canada. Here's my [resume](https://www.linkedin.com/in/jackli0707/overlay/1635530818650/single-media-viewer/?profileId=ACoAACM7NV8BVHKoxqMZcQX1Z-gIPc8aqap2Te8) </br> 
+I'm a self-taught full-stack dev based in Toronto, Canada. Here's my [resume](https://github.com/jackli921/Portfolio-Site/blob/9cb5f75a2b7995d6bd89c4a8f9ed08d91e28ebec/Resume_Run%20Qi%20(Jack)%20Li_Software%20Developer.pdf) </br> 
 I'm an ex-JET (CIR turned ALT) and an avid language learner and backpacker. </br>
 
 
