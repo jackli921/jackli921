@@ -32,6 +32,14 @@ I hope to converse in all 6 UN languages, so besides learning C, Java, and Pytho
 |------------|-------------|-------------|-------------|
 | <p align="center">Backpacking in China</p>|<p align="center"> Badminton in Japan</p> | <p align="center">Spanish learning in Guatemala</p> | <p align="center">Japanese Learning in Canada</p> |
 
+## Project
+
+|------------|-------------|-------------|
+|------------|-------------|-------------|
+|Boole Bot (view in desktop or mobile) | Kanbe Udon (view in mobile for best experience) | Tindog (view in mobile for best experience) |
+| An educational game that combines gameplay with basic Boolean logic |A responsive website for an udon shop in Fukuoka, Japan, built using React Router 6| A fake dating app for caines everywhere|
+|[Repo](https://github.com/chingu-voyages/v44-tier2-team-24) & [Site](https://boolebots.netlify.app/) |[Repo](https://github.com/jackli921/Kanbei-Udon) $ [Site](https://kanbei-udon-jack.netlify.app/)|[Repo](https://github.com/jackli921/Tindog-Dog-Dating-App) & [Site](https://tindog-jack.netlify.app/)|
+
 ## Work 
 
 ### Software Developer - ToBeDetermined.Inc - (Jun 2023 - Present) 
