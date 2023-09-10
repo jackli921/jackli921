@@ -51,12 +51,11 @@ I hope to converse in all 6 UN languages, so besides learning C, Java, and Pytho
 ## Work 
 
 ### Software Developer - ToBeDetermined.Inc - (Jun 2023 - Present) 
-- Exceeded expectations, promoted to intermediate rate ($40USD/hr) from junior ($20USD/hr) in under 1 month
-- Developed 8 industrial-grade web-scrapers that collect and stores data from 500k+ urls to Cloud database
-- Reduced development cost($5k+) through fine tuning and automating data scraping process on Google Cloud VMs
-- Increased collectible data quantity by 100+ fold/page while reduced failed scrape attempts from 8% to under 1%
-- Maintained high development velocity through clear written and oral communication with clients and PM
-- Drafted 10+ README and archived 30+ branches to improve repo maintainability and onboarding experience
+- Exceeded expectations, promoted to <strong> intermediate ($40USD/hr) </strong> from junior ($20USD/hr) in 1 month
+- Developed <strong>8</strong> industrial-grade web-scrapers that collected and stored data from <strong> 1 million+ </strong> urls to Firestore
+- Reduced development cost <strong>($5k+)</strong> through fine tuning and automating data scraping process on Google Cloud VMs
+- Increased collectible data quantity by <strong>100+ fold/page</strong> while reduced failed scrape attempts from 8% to <strong>under 1%</strong>
+- Drafted <strong>10+</strong> README and archived <strong>30+</strong> branches to improve repo maintainability in Git & Github
 
 ### Frontend Developer - Chingu - (May 2023 - June 2023)
 - Fostered an exceptional team dynamic where all members expressed a desire to collaborate again on future projects
