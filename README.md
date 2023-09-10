@@ -21,15 +21,19 @@ I'm freelancing as a software developer and is <strong> open for hire 🤝 </str
 ## About
 Born in 🇨🇳 and raised in 🇨🇦, I've been on a language journey (spoken and programming ones) my whole life. </br>
 
-Until I discovered coding, my fascination with language and culture led me to learning Spanish in Guatemala and teaching English in Japan.
-I hope to be able to converse in all 6 UN languages some day, so I'm looking at Arabic, Russian, and French now that I speak Mandarin, English, and Spanish. 
+Until I discovered coding, my fascination with language and culture led me to learning Spanish in Guatemala 🇬🇹 and teaching English in Japan 🇯🇵. </br>
+For a long time, I saw myself becoming a language specialist in interpretation or translation until I discovered web development through Scrimba in 2022.
+You could say that I discovered new ecosystem and I have never looked back since. 
+
+While this new journey in programming languages continue, I will keep going with my spoken ones as well. 
+I hope to converse with speakers of all 6 UN languages, so besides C, Java, and Python, I'm looking at Arabic, Russian, and French next.
 
 My hobbies:
-- backpacking, camping, wilderness survival!
+- backpacking, camping, wilderness survival 🏕️!
 - language learning & cultural immersion (you saw this one coming)
-- Playing badminton
-- All things Japan
-- Liberal arts (world history, philosophy, and sociology research)
+- badminton, badminton, more badminton 🏸
+- all things Japan 🏯
+- liberal arts readings (world history, philosophy, sociology)
 
 ## Work 
 
