@@ -47,7 +47,7 @@ I hope to converse in all 6 UN languages, so besides learning C, Java, and Pytho
 | Tindog (best viewed in mobile size) | YelpCamp (view in mobile or desktop) | 
 | A dating app mimicking for caines everywhere (best viewed in mobile) | A full-stack review-sharing platform for campgrounds in the U.S.|
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)|
-|[Repo](https://github.com/chingu-voyages/v44-tier2-team-24) & [Site](https://boolebots.netlify.app/) | [Repo](https://github.com/jackli921/Kanbei-Udon) & [Site](https://kanbei-udon-jack.netlify.app/)|
+|[Repo](https://github.com/jackli921/Tindog-Dog-Dating-App) & [Site](https://tindog-jack.netlify.app/) | [Repo](https://github.com/jackli921/Kanbei-Udon) & [Site](https://kanbei-udon-jack.netlify.app/)|
 
 ## Work 
 
