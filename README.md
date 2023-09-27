@@ -23,7 +23,7 @@ For a long time, I saw myself becoming a spoken language specialist such as an i
 But all that changed when I discovered web development through Scrimba in 2022. </br>
 
 You could say that I found myself an new ecosystem; </br>
-An brand new playground to challeng myself and follow my curiosity. </br>
+A brand new playground to challeng myself and follow my curiosity. </br>
 But most importantly, as a way to reinvent myself.
 
 While this new journey in programming languages continue, I will keep going with my spoken ones as well. </br>
@@ -77,6 +77,6 @@ Bachelor of Knowledge Integration - Waterloo, Canada
 - Business Japanese Proficiency Test J1+ (BJTビジネス日本語能力テスト J1+)
 - Japanese Language Proficiency Test N1(日本語能力試験 N1)
 - [Provincial Champion of 34th Ontario Japanese Speech Contest](https://www.youtube.com/watch?v=tGrz8yKtzIw&list=PLHWuZ9otK00L59a0i8ZrWc8PzMDNEd47G) (最優秀賞　第39回オンタリオ州日本語弁論大会)
-- National Champion of 27th Canada national Japanese Speech Contest (第1位　初級部門　第27回全カナダ日本語弁論大会)
+- National Champion of 27th Canada National Japanese Speech Contest (第1位　初級部門　第27回全カナダ日本語弁論大会)
 - Teaching English as a Foreign language 120 Hours training (TEFL) 
 
