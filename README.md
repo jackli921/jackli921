@@ -68,7 +68,6 @@ Led development & automation of over a dozen GCP-hosted web scrapers using NodeJ
 
 ### Frontend Developer - Chingu - (May 2023 - Jun 2023)
 Led project management, development of game logic, and testing in a team of four new developers in United States and Canada
-- Fostered an exceptional team dynamic where all members expressed a desire to collaborate again on future projects
 - Collaborated in an Agile team of four applying (Scrum) Methodology and Git for version control
 - Led weekly sprint planning and reviews with clear agendas, input from all members, and actionable items
 - Ensured optimal performance, accessibility, and SEO by following best practices and making the app responsive
