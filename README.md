@@ -21,8 +21,8 @@ Before coding, my fascination with language and culture led me to learning Spani
 For a long time, I saw myself becoming a spoken language specialist such as an interpretation or a translator. </br>
 But all that changed when I discovered web development through Scrimba in 2022. </br>
 
-You could say that I found myself an new ecosystem; </br>
-A brand new playground to challeng myself and follow my curiosity. </br>
+You could say that I found myself a new ecosystem; </br>
+A brand new playground to challenge myself and follow my curiosity. </br>
 But most importantly, as a way to reinvent myself.
 
 While this new journey in programming languages continue, I will keep going with my spoken ones as well. </br>
