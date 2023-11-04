@@ -2,10 +2,9 @@
 
 I'm a self-taught full-stack developer based in Toronto 🇨🇦. </br>
 I learned to code to overcome my fears of programming 👨🏻‍💻. </br>
-Currently working as a software developer and is <strong> open for hire 🤝 </strong> </br>
-[Resume](https://github.com/jackli921/Portfolio-Site/blob/9cb5f75a2b7995d6bd89c4a8f9ed08d91e28ebec/Resume_Run%20Qi%20(Jack)%20Li_Software%20Developer.pdf) | [Portfolio](https://jack-codes.netlify.app/) </br>
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/li_jack0707)](https://twitter.com/li_jack0707) 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/jackli0707/)](https://www.linkedin.com/in/jackli0707/)
+[![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/li_jack0707) 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackli0707/)
+[![Site Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jack-codes.netlify.app/)
 
 ## Navigation
 - [About](#about)
@@ -51,14 +50,24 @@ I hope to converse in all 6 UN languages, so besides learning C, Java, and Pytho
 
 ## Work 
 
-### Software Developer - ToBeDetermined.Inc - (Jun 2023 - Present) 
+### Code Reviewer - Scrimba (Jun 2023 - Present)
+Conducted detail code reviews of frontend projects for Scrimba's Bootcamp students of various skill level
+- Critiqued 30+ projects with detailed feedback, receiving consistent praise for high-quality feedback
+- Received Top Code Reviewer of the Week out of 50+ weekly reviews
+- Assisted students in resolving programming challenges via text and recorded scrims
+- Advocated good coding habits and educate on conventions across student projects
+- Identified and suggested improvements for accessibility, responsiveness, and performance
+
+### Software Developer - ToBeDetermined.Inc - (Jun 2023 - Nov 2023) 
+Led development & automation of over a dozen GCP-hosted web scrapers using NodeJS, Puppeteer library in a distributed team
 - Exceeded expectations, promoted to <strong> intermediate ($40USD/hr) </strong> from junior ($20USD/hr) in 1 month
 - Developed <strong>8</strong> industrial-grade web-scrapers that collected and stored data from <strong> 1 million+ </strong> urls to Firestore
 - Reduced development cost <strong>($5k+)</strong> through fine tuning and automating data scraping process on Google Cloud VMs
 - Increased collectible data quantity by <strong>100+ fold/page</strong> while reduced failed scrape attempts from 8% to <strong>under 1%</strong>
 - Drafted <strong>10+</strong> README and archived <strong>30+</strong> branches to improve repo maintainability in Git & Github
 
-### Frontend Developer - Chingu - (May 2023 - June 2023)
+### Frontend Developer - Chingu - (May 2023 - Jun 2023)
+Led project management, development of game logic, and testing in a team of four new developers in United States and Canada
 - Fostered an exceptional team dynamic where all members expressed a desire to collaborate again on future projects
 - Collaborated in an Agile team of four applying (Scrum) Methodology and Git for version control
 - Led weekly sprint planning and reviews with clear agendas, input from all members, and actionable items
