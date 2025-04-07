@@ -3,7 +3,6 @@
 I'm a self-taught full-stack developer based in Toronto 🇨🇦. </br>
 I learned to code to overcome my fears of programming 👨🏻‍💻. </br>
 
-[![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/li_jack0707) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackli0707/)
 [![Site Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jack-codes.netlify.app/)
 
