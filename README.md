@@ -26,7 +26,6 @@ A brand new playground to challenge myself and follow my curiosity. </br>
 But most importantly, as a way to reinvent myself.
 
 While this new journey in programming languages continue, I will keep going with my spoken ones as well. </br>
-I hope to converse in all 6 UN languages, so besides learning C, Java, and Python, I'll learn at Arabic, Russian, and French as well.
 
 |<img src="https://raw.githubusercontent.com/jackli921/jackli921/main/backpacking.jpg" width="250">|<img src="https://github.com/jackli921/jackli921/blob/main/badminton.jpg?raw=true" width="250">|<img src="https://github.com/jackli921/jackli921/blob/main/guatemala.jpg?raw=true" width="250">|<img src="https://github.com/jackli921/jackli921/blob/main/japanese.jpg?raw=true" width="250">
 |------------|-------------|-------------|-------------|
