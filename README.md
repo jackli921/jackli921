@@ -49,41 +49,40 @@ While this new journey in programming languages continue, I will keep going with
 
 ## Work 
 
-### Code Reviewer - Scrimba (Jun 2023 - Present)
-Conducted detail code reviews of frontend projects for Scrimba's Bootcamp students of various skill level
-- Critiqued 30+ projects with detailed feedback, receiving consistent praise for high-quality feedback
-- Received Top Code Reviewer of the Week out of 50+ weekly reviews
-- Assisted students in resolving programming challenges via text and recorded scrims
-- Advocated good coding habits and educate on conventions across student projects
-- Identified and suggested improvements for accessibility, responsiveness, and performance
+### Software Developer - ITI Group Inc (Nov 2023 – Present)
+Manufacturing Execution Software development for industrial clients (Full-Time)
+- Developed and tested custom full-stack features (inspection banners, KPI dashboards, RFID badge scanner logins) using C#, .NET, MySQL, JavaScript
+- Reduced production defect reporting time by 70%, saving operators 20+ minutes daily, improving operational efficiency
+- Improved codebase maintainability via refactoring and additional unit tests; increased test coverage by 2%
+- Reduced team's debugging time by contributing 15+ How-To articles to the internal wiki
+- Led cross-team communication between Canada and UK to clarify technical requirements and ensure alignment across time zones
 
-### Software Developer - ToBeDetermined.Inc - (Jun 2023 - Nov 2023) 
-Led development & automation of over a dozen GCP-hosted web scrapers using NodeJS, Puppeteer library in a distributed team
-- Exceeded expectations, promoted to <strong> intermediate ($40USD/hr) </strong> from junior ($20USD/hr) in 1 month
-- Developed <strong>8</strong> industrial-grade web-scrapers that collected and stored data from <strong> 1 million+ </strong> urls to Firestore
-- Reduced development cost <strong>($5k+)</strong> through fine tuning and automating data scraping process on Google Cloud VMs
-- Increased collectible data quantity by <strong>100+ fold/page</strong> while reduced failed scrape attempts from 8% to <strong>under 1%</strong>
-- Drafted <strong>10+</strong> README and archived <strong>30+</strong> branches to improve repo maintainability in Git & Github
+### Software Engineer - MultplAI (Sept 2023 – Nov 2023)
+- Backend development of data collection using Python and AWS services (Internship)
+- Increased data collected by 10% with a new Python Scrapy scraper deployed on EC2
+- Reduced data loss by 5%+ by increasing cardinality of keys and lowering TTL in Redis ElastiCache
+- Led bi-weekly Agile sprints including planning, retrospectives, stand-ups, scoping, and ticket assignments
 
-### Frontend Developer - Chingu - (May 2023 - Jun 2023)
-Led project management, development of game logic, and testing in a team of four new developers in United States and Canada
-- Collaborated in an Agile team of four applying (Scrum) Methodology and Git for version control
-- Led weekly sprint planning and reviews with clear agendas, input from all members, and actionable items
-- Ensured optimal performance, accessibility, and SEO by following best practices and making the app responsive
+### Software Developer - ToBeDetermined Inc (Jun 2023 – Nov 2023)
+Backend development & automation of GCP-hosted web scrapers (Freelance)
+- Exceeded expectations and received a rate increase to $40 USD/hr (from $20 USD/hr) in under 1 month
+- Spearheaded 10+ JavaScript Puppeteer scrapers that collected data from 1M+ URLs to Firestore
+- Increased collectible data quantity by 100x per target URL and reduced failed scrapes from 8% to under 1% via error handling and proxy rotation
+- Migrated heavily nested JSON (4MB+) to SQL database using a custom parsing algorithm and table structure
+
 
 ## Education 
-University of Waterloo
+Unversity of Waterloo (June 2025 - Mar 2026)
+Back-End Development Certificate (Upcoming)
+Courses: Back-End Architecture | Security, Database Design, and Concurrency | Cloud Services
+
+University of Waterloo (Sept 2014 - June 2018)
 Bachelor of Knowledge Integration - Waterloo, Canada
-- Design Thinking
-- Collaborative Problem Solving
-- Philosophy
-- Earth Science
-- Applied Languages Studies
+Courses: Design Thinking | Collaborative Problem Solving | Critical Thinking | Applied Languages Studies
 
 ## Accomplishments
-- Business Japanese Proficiency Test J1+ (BJTビジネス日本語能力テスト J1+)
-- Japanese Language Proficiency Test N1(日本語能力試験 N1)
-- [Provincial Champion of 34th Ontario Japanese Speech Contest](https://www.youtube.com/watch?v=tGrz8yKtzIw&list=PLHWuZ9otK00L59a0i8ZrWc8PzMDNEd47G) (最優秀賞　第39回オンタリオ州日本語弁論大会)
-- National Champion of 27th Canada National Japanese Speech Contest (第1位　初級部門　第27回全カナダ日本語弁論大会)
-- Teaching English as a Foreign language 120 Hours training (TEFL) 
-
+- Business Japanese Proficiency Test J1+ (BJTビジネス日本語能力テスト J1+) 2023
+- Teaching English as a Foreign language 120 Hours training (TEFL) 2020 
+- Japanese Language Proficiency Test N1(日本語能力試験 N1) 2017
+- [Provincial Champion of 34th Ontario Japanese Speech Contest](https://www.youtube.com/watch?v=tGrz8yKtzIw&list=PLHWuZ9otK00L59a0i8ZrWc8PzMDNEd47G) (最優秀賞　第39回オンタリオ州日本語弁論大会) 2016
+- National Champion of 27th Canada National Japanese Speech Contest (第1位　初級部門　第27回全カナダ日本語弁論大会) 2016
