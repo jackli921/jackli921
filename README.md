@@ -4,8 +4,6 @@ I'm a self-taught full-stack developer based in Toronto 🇨🇦. </br>
 I learned to code to overcome my fears of programming 👨🏻‍💻. </br>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackli0707/)
-[![Site Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jack-codes.netlify.app/)
-
 
 ## Navigation
 - [About](#about)
@@ -72,13 +70,11 @@ Backend development & automation of GCP-hosted web scrapers (Freelance)
 
 
 ## Education 
-Unversity of Waterloo (June 2025 - Mar 2026)
-Back-End Development Certificate (Upcoming)
-Courses: Back-End Architecture | Security, Database Design, and Concurrency | Cloud Services
+Back-End Development Certificate, Unversity of Waterloo, (Upcoming)
+- Courses: Back-End Architecture | Security, Database Design, and Concurrency | Cloud Services
 
-University of Waterloo (Sept 2014 - June 2018)
-Bachelor of Knowledge Integration - Waterloo, Canada
-Courses: Design Thinking | Collaborative Problem Solving | Critical Thinking | Applied Languages Studies
+Bachelor of Knowledge Integration, University of Waterloo, (Sept 2014 - June 2018)
+- Courses: Design Thinking | Collaborative Problem Solving | Critical Thinking | Applied Languages Studies
 
 ## Accomplishments
 - Business Japanese Proficiency Test J1+ (BJTビジネス日本語能力テスト J1+) 2023
