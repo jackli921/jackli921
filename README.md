@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, and welcome! My name is Jack!</h1>
 
-I'm a full-stack software engineer based in Toronto 🇨🇦. </br> See my detailed bio at: 
+</br> 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackli0707/)
 
 ## Navigation
